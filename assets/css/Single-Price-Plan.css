@@ -150,4 +150,24 @@
   background: -webkit-gradient(linear, left top, right top, from(#e24997), to(#2d2ed4));
   background: linear-gradient(to right, #e24997, #2d2ed4);
 }
+.logo {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -25px;
+  margin-top: -25px;
+  padding: 0 5px;
+  height: 50px;
+  width: 50px;
+  background: #2d2ed4 url("assets/img/X.png") no-repeat ;
+}
+
+.line {
+  position: relative;
+  overflow: visible;
+  height: 1px;
+  background-color: #ddd;
+  border: 1px solid #ddd;
+}
+
 
