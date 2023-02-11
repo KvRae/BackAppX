@@ -1,2 +1,2 @@
-![logo_light_mode-01](https://user-images.githubusercontent.com/58667227/218262406-959475f5-e296-43f2-8d3e-34bd7833f06d.png)
+![logo_light_mode-01](https://user-images.githubusercontent.com/58667227/218262555-710a7b0c-ac49-49a3-b7d5-12fc1d7a8295.png)
 # BackAppX
